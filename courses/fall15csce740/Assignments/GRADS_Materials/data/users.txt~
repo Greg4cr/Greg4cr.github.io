@@ -1,0 +1,44 @@
+[
+    {
+       "id": "nguy0621",
+       "firstName": "Luan",
+       "lastName": "Nguyen",
+        "role": "STUDENT",
+        "department": "COMPUTER_SCIENCE"
+    },
+    {
+        "id": "gayxx067",
+        "firstName": "Gregory",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "department": "COMPUTER_SCIENCE"
+    },
+    {
+        "id": "bob099",
+        "firstName": "Robert",
+        "lastName": "Bob",
+        "role": "STUDENT",
+        "department": "MATH"
+    },
+    {
+        "id": "tolas9999",
+        "firstName": "Georganne",
+        "lastName": "Tolaas",
+        "role": "GRADUATE_PROGRAM_COORDINATOR",
+        "department": "COMPUTER_SCIENCE"
+    },
+    {
+        "id": "smith0001",
+        "firstName": "John",
+        "lastName": "Smith",
+        "role": "GRADUATE_PROGRAM_COORDINATOR",
+        "department": "MATH"
+    },
+    {
+        "id": "desil1337",
+        "firstName": "Ian",
+        "lastName": "De Silva",
+        "role": "STUDENT",
+        "department": "COMPUTER_SCIENCE"
+    }
+]

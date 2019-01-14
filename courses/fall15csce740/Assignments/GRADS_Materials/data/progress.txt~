@@ -1,0 +1,219 @@
+[
+   {
+      "student": {
+      "id": "mhunt",
+      "firstName": "Michelle",
+      "lastName": "Hunt"
+    },
+    "department": "COMPUTER_SCIENCE",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2013
+    },
+    "degreeSought": {
+      "name": "PHD",
+      "graduation": {
+        "semester": "SPRING",
+        "year": 2018
+      },
+    "advisors": [
+      {
+        "department": "COMPUTER_SCIENCE",
+        "firstName": "Duncan",
+        "lastName": "Buell"
+      }
+    ],
+    "committee": [
+      {
+        "department": "COMPUTER_SCIENCE",
+        "firstName": "Manton",
+        "lastName": "Matthews"
+      },
+      {
+        "department": "COMPUTER_SCIENCE",
+        "firstName": "Jason",
+        "lastName": "Bakos"
+      },
+      {
+        "department": "MATHEMATICS",
+        "firstName": "Richard",
+        "lastName": "McGehee"
+      }
+    ],
+      "requirementCheckResults":[
+         {
+            "name":"CORE_COURSES_PHD",
+            "passed":true,
+            "details":{
+               "courses":[
+                  {
+                    "course": {
+                    "name": "Computer Architecture",
+                    "id": "csce513",
+                    "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "FALL",
+                    "year": 2013
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                      "name": "Compiler Construction",
+                      "id": "csce531",
+                      "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "SPRING",
+                    "year": 2014
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                       "name": "Theory of Computation",
+                       "id": "csce551",
+                       "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "FALL",
+                    "year": 2014
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                       "name": "Analysis of Algorithms",
+                       "id": "csce750",
+                       "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "SPRING",
+                    "year": 2015
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                    "name": "Seminar in Advances in Computing",
+                    "id": "csce791",
+                    "numCredits": "1"
+                  },
+                  "term": {
+                    "semester": "SPRING",
+                    "year": 2015
+                  },
+                  "grade": "A"
+                }
+               ]
+            }
+         },
+	{
+            "name":"ADDITIONAL_CREDITS_PHD",
+            "passed":false,
+            "details":{
+               notes: [
+                 "Must pass 20 more hours of CSCE courses numbered above 700 that are not core courses."
+              ]
+            }
+         },
+          {
+            "name":"DEGREE_BASED_CREDITS_PHD",
+            "passed":false,
+            "details":{
+               "courses":[
+                {
+                        "course": {
+                          "name": "Naptime",
+                          "id": "nap734",
+                          "numCredits": "5"
+                        },
+                        "term": {
+                          "semester": "SPRING",
+                          "year": 2014
+                        },
+                        "grade": "B"
+                      },
+                      {
+                        "course": {
+                          "name": "Advanced Naptime",
+                          "id": "nap888",
+                          "numCredits": "5"
+                        },
+                        "term": {
+                          "semester": "FALL",
+                          "year": 2014
+                        },
+                        "grade": "B"
+                      },
+                  {
+                    "course": {
+                    "name": "Computer Architecture",
+                    "id": "csce513",
+                    "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "FALL",
+                    "year": 2013
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                      "name": "Compiler Construction",
+                      "id": "csce531",
+                      "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "SPRING",
+                    "year": 2014
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                       "name": "Theory of Computation",
+                       "id": "csce551",
+                       "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "FALL",
+                    "year": 2014
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                       "name": "Analysis of Algorithms",
+                       "id": "csce750",
+                       "numCredits": "3"
+                  },
+                  "term": {
+                    "semester": "SPRING",
+                    "year": 2015
+                  },
+                  "grade": "A"
+                },
+                {
+                  "course": {
+                    "name": "Seminar in Advances in Computing",
+                    "id": "csce791",
+                    "numCredits": "1"
+                  },
+                  "term": {
+                    "semester": "SPRING",
+                    "year": 2015
+                  },
+                  "grade": "A"
+                }
+               ],
+               notes: [
+                 "Must pass 25 more hours of graduate courses.",
+                 "Must pass 11 more hours of CSCE courses numbered above 700."
+              ]
+            }
+         },
+      ]
+   }
+]
