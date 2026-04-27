@@ -1,9 +1,9 @@
 ASE 2026 — PC members who have not completed all of their reviews
-Date: April 24, 2026
+Date: April 27, 2026
 Source: https://ase26.hotcrp.com/users/pc
 #asechair and #areachair members excluded per project rules.
 
-Count: 358
+Count: 356
 
 Abbas Heydarnoori <aheydar@bgsu.edu>,
 Abhishek Tiwari <abti@mmmi.sdu.dk>,
@@ -153,8 +153,8 @@ João F. Ferreira <joao@joaoff.com>,
 Jonathan Bell <j.bell@northeastern.edu>,
 Jooyong Yi <jooyong@unist.ac.kr>,
 Jordan Samhi <jordan.samhi@uni.lu>,
-José Cambronero <josepablocam@gmail.com>,
 José Antonio Hernández López <joseantonio.hernandez6@um.es>,
+José Cambronero <josepablocam@gmail.com>,
 Jose Luis de la Vara <joseluis.delavara@uclm.es>,
 Juan Zhai <juanzhai@umass.edu>,
 Jun Sun <junsun@smu.edu.sg>,
@@ -319,7 +319,6 @@ Xiaodong Gu <xiaodong.gu@sjtu.edu.cn>,
 Xiaofei Xie <xfxie@smu.edu.sg>,
 Xiaoxue Ren <xxren@zju.edu.cn>,
 Xiaoyin Wang <xiaoyin.wang@utsa.edu>,
-Xiaoyu Zhang <xiaoyu.zhang@ntu.edu.sg>,
 Xiaoyuan Xie <xxie@whu.edu.cn>,
 Xiapu Luo <csxluo@comp.polyu.edu.hk>,
 Xing Hu <xinghu@zju.edu.cn>,
@@ -352,7 +351,6 @@ Yuan Tian <y.tian@queensu.ca>,
 Yuekang Li <yuekang.li@unsw.edu.au>,
 Yun Lin <lin_yun@sjtu.edu.cn>,
 Yun Peng <ypeng@cse.cuhk.edu.hk>,
-Yuxiang Wei <ywei40@illinois.edu>,
 Zeyu Sun <zeyu.zys@gmail.com>,
 Zhen Ming (Jack) Jiang <zmjiang@yorku.ca>,
 Zhenbang Chen <zbchen@nudt.edu.cn>,
