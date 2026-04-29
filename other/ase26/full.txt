@@ -1,9 +1,9 @@
 ASE 2026 — PC members who have not completed all of their reviews
-Date: April 28, 2026
+Date: 2026-04-29
 Source: https://ase26.hotcrp.com/users/pc
 #asechair and #areachair members excluded per project rules.
 
-Count: 356
+Count: 353
 
 Abbas Heydarnoori <aheydar@bgsu.edu>,
 Abhishek Tiwari <abti@mmmi.sdu.dk>,
@@ -152,7 +152,6 @@ Jiongchi Yu <jcyu.2022@smu.edu.sg>,
 João F. Ferreira <joao@joaoff.com>,
 Jonathan Bell <j.bell@northeastern.edu>,
 Jooyong Yi <jooyong@unist.ac.kr>,
-Jordan Samhi <jordan.samhi@uni.lu>,
 José Antonio Hernández López <joseantonio.hernandez6@um.es>,
 José Cambronero <josepablocam@gmail.com>,
 Jose Luis de la Vara <joseluis.delavara@uclm.es>,
@@ -185,7 +184,6 @@ Marcel Böhme <marcel.boehme@acm.org>,
 Marcelo d'Amorim <mdamori@ncsu.edu>,
 Marcelo Frias <mfrias4@utep.edu>,
 Marieke Huisman <M.Huisman@utwente.nl>,
-Mark Harman <mark.harman@ucl.ac.uk>,
 Markus Borg <markus.borg@codescene.com>,
 Martin Robillard <robillard@acm.org>,
 Masanari Kondo <kondo@ait.kyushu-u.ac.jp>,
@@ -256,7 +254,6 @@ Sébastien Bardin <sebastien.bardin@cea.fr>,
 Seongmin Lee <seongminlee@sigsoft.org>,
 Seung Yeob Shin <seungyeob.shin@uni.lu>,
 Seunghoon Woo <seunghoonwoo@korea.ac.kr>,
-Shahar Maoz <maoz@cs.tau.ac.il>,
 Shaiful Chowdhury <shaiful.chowdhury@umanitoba.ca>,
 Shalini Chakraborty <shalini.chakraborty@uni-bayreuth.de>,
 Shamsa Abid <shamsa.abid@lums.edu.pk>,
