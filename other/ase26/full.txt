@@ -1,16 +1,15 @@
 ASE 2026 — PC members who have not completed all of their reviews
-Date: 2026-04-29
+Date: 2026-04-30
 Source: https://ase26.hotcrp.com/users/pc
 #asechair and #areachair members excluded per project rules.
 
-Count: 353
+Count: 352
 
 Abbas Heydarnoori <aheydar@bgsu.edu>,
 Abhishek Tiwari <abti@mmmi.sdu.dk>,
 Ahmad Abdellatif <ahmad.abdellatif@ucalgary.ca>,
 Ajitha Rajan <arajan@ed.ac.uk>,
 Alessandra Gorla <alessandra.gorla@imdea.org>,
-Alessandro Midolo <alessandro.midolo@unict.it>,
 Alessio Gambi <alessio.gambi@ait.ac.at>,
 Alex Groce <agroce@gmail.com>,
 Alexander Pretschner <alexander.pretschner@tum.de>,
@@ -152,11 +151,10 @@ Jiongchi Yu <jcyu.2022@smu.edu.sg>,
 João F. Ferreira <joao@joaoff.com>,
 Jonathan Bell <j.bell@northeastern.edu>,
 Jooyong Yi <jooyong@unist.ac.kr>,
-José Antonio Hernández López <joseantonio.hernandez6@um.es>,
 José Cambronero <josepablocam@gmail.com>,
+José Antonio Hernández López <joseantonio.hernandez6@um.es>,
 Jose Luis de la Vara <joseluis.delavara@uclm.es>,
 Juan Zhai <juanzhai@umass.edu>,
-Jun Sun <junsun@smu.edu.sg>,
 Junjie Chen <junjiechen@tju.edu.cn>,
 Junjie Wang <junjie@iscas.ac.cn>,
 Kadiray Karakaya <kadiray.karakaya@upb.de>,
@@ -286,6 +284,7 @@ Tao Xie <taoxie@pku.edu.cn>,
 Tao Zhang <tazhang@must.edu.mo>,
 Tegawendé F. BISSYANDE <tegawende.bissyande@uni.lu>,
 Tevfik Bultan <bultan@ucsb.edu>,
+Thomas Bach <thomas.bach03@sap.com>,
 Thomas Fritz <fritz@ifi.uzh.ch>,
 Tianlin Li <tianlin001@buaa.edu.cn>,
 Tianyi Zhang <tianyi@purdue.edu>,
