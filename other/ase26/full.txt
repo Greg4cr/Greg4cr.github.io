@@ -1,4 +1,4 @@
-345 PC members have not completed all of their reviews at this time.
+Number of PC members who have not completed all of their reviews: 343
 
 Abbas Heydarnoori <aheydar@bgsu.edu>,
 Abhishek Tiwari <abti@mmmi.sdu.dk>,
@@ -97,7 +97,6 @@ Hadi Hemmati <hemmati@yorku.ca>,
 Haipeng Cai <haipengc@buffalo.edu>,
 Hakjoo Oh <hakjoo_oh@korea.ac.kr>,
 Hamid Bagheri <bagheri@unl.edu>,
-Han Zheng <han.zheng@epfl.ch>,
 Hao Zhong <zhonghao@sjtu.edu.cn>,
 Haoyu Wang <haoyuwang@hust.edu.cn>,
 He Ye <he.ye@ucl.ac.uk>,
@@ -233,7 +232,6 @@ Ruijie Meng <ruijie_meng@u.nus.edu>,
 Ruoxi Sun <ruoxisun278@gmail.com>,
 Saad Ezzini <saad.ezzini@kfupm.edu.sa>,
 Saeid Tizpaz-Niari <saeid@uic.edu>,
-Sallam Abualhaija <sallam.abualhaija@uni.lu>,
 Sam Malek <malek@uci.edu>,
 Sandeep Kaur Kuttal <skuttal@ncsu.edu>,
 Sanjai Rayadurgam <rsanjai@umn.edu>,
