@@ -1,0 +1,73 @@
+Daily PC review update — 2026-05-14 (re-run): FAILED
+
+Cause
+-----
+The scheduled task again attempted to download fresh PC member data
+from https://ase26.hotcrp.com/users/pc.
+
+The host is reachable from the workspace this run (HTTP 200 — the
+earlier "cowork-egress-blocked" 403 is no longer happening), but the
+unauthenticated response is just the public Program Committee listing
+page — names and affiliations only. The fields needed to generate
+the three reports are not present in that page:
+
+    - email addresses                 (not in unauthenticated HTML)
+    - #asechair / #areachair tags     (not in unauthenticated HTML)
+    - per-PC review completion counts (not in unauthenticated HTML)
+
+The CSV download / search endpoints
+(/users/pc?getfn=download&fn=get&f=email&f=tags&f=revcompletion and
+similar variants) all return the same unauthenticated landing page
+rather than CSV. HotCRP requires a logged-in chair session for those
+fields.
+
+The other access paths checked are still unavailable:
+
+    - Computer-use (Claude in Chrome) is disabled on this account, so
+      a logged-in browser session cannot be driven.
+    - No HotCRP API token, session cookie, or fresh PC CSV is stored
+      anywhere in the project folder, mounted workspace, uploads, or
+      session scratch space.
+
+Without authenticated data, the task cannot determine who is below
+half / not full / at zero reviews, and the previous reports were left
+intact rather than overwritten with stale or empty content.
+
+What was preserved
+------------------
+The last successful run (2026-05-13) wrote valid reports to this
+folder. They are still here, but their counts are now one day older:
+
+    half.txt — 169 PC members below half reviews   (as of 2026-05-13)
+    full.txt — 295 PC members not done with all    (as of 2026-05-13)
+    zero.txt —  51 PC members with no reviews      (as of 2026-05-13)
+
+How to restore daily updates
+----------------------------
+Any one of the following will let the next run produce fresh reports:
+
+  (a) Re-enable computer-use (Settings → Desktop app → Computer use)
+      so the task can drive the logged-in HotCRP browser session, the
+      same way earlier successful runs did.
+  (b) Save a HotCRP API token (or a freshly exported PC CSV containing
+      name, email, tags, and review completion columns) into the
+      project folder so the task can read it locally.
+  (c) Manually export the PC CSV from HotCRP and drop it in
+      /Users/ggay/Claude/Projects/ase-26-monitoring/ before the next
+      scheduled run.
+
+Then re-run the daily-progress-update scheduled task.
+
+Run history
+-----------
+  2026-05-04  succeeded
+  2026-05-06  succeeded
+  2026-05-13  succeeded
+  2026-05-14  blocked (egress)        — first attempt (earlier today)
+  2026-05-14  blocked (egress)        — second attempt
+  2026-05-14  blocked (egress)        — third attempt
+  2026-05-14  reachable, no auth data — this run
+
+Note: the host now responds (the earlier egress block appears to be
+gone), but the underlying problem — needing an authenticated session
+to read emails, tags, and review counts — remains.
