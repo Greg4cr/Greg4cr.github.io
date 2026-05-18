@@ -1,13 +1,8 @@
-Number of PC members who have not completed any of their reviews: 11
+Number of PC members who have not completed any of their reviews: 6
 
 Alessandra Gorla <alessandra.gorla@imdea.org>,
-Alexandra Mendes <alexandra@archimendes.com>,
 Antonio Mastropaolo <amastropaolo@wm.edu>,
 Foutse Khomh <foutse.khomh@polymtl.ca>,
-Geguang Pu <ggpu@sei.ecnu.edu.cn>,
-João F. Ferreira <joao@joaoff.com>,
 Kevin Moran <kpmoran@ucf.edu>,
-Man Zhang <man.mzhang@gmail.com>,
-Sébastien Bardin <sebastien.bardin@cea.fr>,
 Shin Hong <hongshin@gmail.com>,
 Tao Xie <taoxie@pku.edu.cn>,
