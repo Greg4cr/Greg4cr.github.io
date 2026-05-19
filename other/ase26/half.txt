@@ -1,16 +1,9 @@
-Number of PC members who have not completed at least half of their reviews: 14
+Number of PC members who have not completed at least half of their reviews: 7
 
 Alessandra Gorla <alessandra.gorla@imdea.org>,
-Alexandra Mendes <alexandra@archimendes.com>,
 Antinisca Di Marco <antinisca.dimarco@univaq.it>,
 Antonio Mastropaolo <amastropaolo@wm.edu>,
-Banani Roy <banani.roy@usask.ca>,
-Foutse Khomh <foutse.khomh@polymtl.ca>,
 Kevin Moran <kpmoran@ucf.edu>,
 Lina Marsso <lina.marsso@polymtl.ca>,
-Sébastien Bardin <sebastien.bardin@cea.fr>,
 Shin Hong <hongshin@gmail.com>,
 Tao Xie <taoxie@pku.edu.cn>,
-Thomas Fritz <fritz@ifi.uzh.ch>,
-Van-Hoang Le <levanhoang.psa@gmail.com>,
-Yangruibo (Robin) Ding <yrbding@cs.ucla.edu>,
